@@ -1,0 +1,91 @@
+{
+  "result": "success",
+  "data": [
+    {
+      "bigdata": {
+        "modelData": [
+          {
+            "modelName": "累计接单",
+            "modelCode": "BI_WX_YD_XS_LJJD"
+          },
+          {
+            "modelName": "出货",
+            "modelCode": "BI_WX_YD_XS_CH"
+          },
+          {
+            "modelName": "接单",
+            "modelCode": "BI_WX_YD_XS_JD"
+          }
+        ],
+        "modelGroupName": "销售",
+        "userAccount": "huogh"
+      }
+    },
+    {
+      "bigdata": {
+        "modelData": [
+          {
+            "modelName": "库存",
+            "modelCode": "BI_WX_YD_FX_KC"
+          },
+          {
+            "modelName": "应收",
+            "modelCode": "BI_WX_YD_FX_YS"
+          }
+        ],
+        "modelGroupName": "风险",
+        "userAccount": "huogh"
+      }
+    },
+    {
+      "bigdata": {
+        "modelData": [
+          {
+            "modelName": "回款",
+            "modelCode": "BI_WX_YD_HK_HK"
+          }
+        ],
+        "modelGroupName": "回款",
+        "userAccount": "huogh"
+      }
+    },
+    {
+      "bigdata": {
+        "modelData": [
+          {
+            "modelName": "行业",
+            "modelCode": "BI_WX_YD_HY_HY"
+          }
+        ],
+        "modelGroupName": "行业",
+        "userAccount": "huogh"
+      }
+    },
+    {
+      "bigdata": {
+        "modelData": [
+          {
+            "modelName": "客户",
+            "modelCode": "BI_WX_YD_KH_KH"
+          }
+        ],
+        "modelGroupName": "客户",
+        "userAccount": "huogh"
+      }
+    },
+    {
+      "bigdata": {
+        "modelData": [
+          {
+            "modelName": "添加",
+            "modelCode": "BI_WX_YD_KH_KH"
+          }
+        ],
+        "modelGroupName": "添加",
+        "userAccount": "huogh"
+      }
+    }
+  ],
+  "message": "请求成功",
+  "return_code": "0000"
+}
